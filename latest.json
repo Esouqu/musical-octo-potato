@@ -3,21 +3,9 @@
   "notes": "Your Release Notes go here",
   "pub_date": "2024-09-14T19:25:57Z",
   "platforms": {
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEEzMURFQ0NDRTgwMzE3NzAKUldSd0Z3UG96T3dkbzdUZG9tNDcxWThQYWRBaXUxMzNQVGQwOHU3ZVBGSDNYcnRuM2lzN0E4QWcK",
-      "url": "https://github.com/Esouqu/musical-octo-potato/releases/download/v0.0.1/app-x86_64.app.tar.gz"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEEzMURFQ0NDRTgwMzE3NzAKUldSd0Z3UG96T3dkbzdUZG9tNDcxWThQYWRBaXUxMzNQVGQwOHU3ZVBGSDNYcnRuM2lzN0E4QWcK",
-      "url": "https://github.com/Esouqu/musical-octo-potato/releases/download/v0.0.1/app-aarch64.app.tar.gz"
-    },
-    "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEEzMURFQ0NDRTgwMzE3NzAKUldSd0Z3UG96T3dkbzdUZG9tNDcxWThQYWRBaXUxMzNQVGQwOHU3ZVBGSDNYcnRuM2lzN0E4QWcK",
-      "url": "https://github.com/Esouqu/musical-octo-potato/releases/download/v0.0.1/app-amd64.AppImage.tar.gz"
-    },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEEzMURFQ0NDRTgwMzE3NzAKUldSd0Z3UG96T3dkbzdUZG9tNDcxWThQYWRBaXUxMzNQVGQwOHU3ZVBGSDNYcnRuM2lzN0E4QWcK",
-      "url": "https://github.com/Esouqu/musical-octo-potato/releases/download/v0.0.1/app-x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0Z3UG96T3dkbzZkcXVHS1lEMTJ2RURpZkV2YitnaWdTUmVKaGMyeGdPWHFwbDdMemFXRVlaUzRSbGd4T0hrWmIzblBmU2IxTXN0T001WGFWOE83aUtEM1NUZkVsS0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI2MzE4ODk0CWZpbGU6cHVtbWVsLXBhcnR5LXN2ZWx0ZS10YXVyaV8wLjAuMV94NjQtc2V0dXAubnNpcy56aXAKdmk5Rk9vTjlLbDhha1NJSVN6TGdCb2xJU3VNSkRYMHNyMWdiK1RvZXNjL3RKaS9sdXFnTDR4K1NLMW9ydE9JQXExUjI0M3d1NkI3V3NZQnhLOCtSREE9PQo=",
+      "url": "https://github.com/Esouqu/musical-octo-potato/releases/download/v0.0.1/pummel-party-svelte-tauri_0.0.1_x64-setup.nsis.zip"
     }
   }
 }
