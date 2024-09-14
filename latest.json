@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.1",
+  "version": "v0.0.2",
   "notes": "Your Release Notes go here",
-  "pub_date": "2024-09-14T19:25:57Z",
+  "pub_date": "2024-09-14T20:15:57Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0Z3UG96T3dkbzZkcXVHS1lEMTJ2RURpZkV2YitnaWdTUmVKaGMyeGdPWHFwbDdMemFXRVlaUzRSbGd4T0hrWmIzblBmU2IxTXN0T001WGFWOE83aUtEM1NUZkVsS0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI2MzE4ODk0CWZpbGU6cHVtbWVsLXBhcnR5LXN2ZWx0ZS10YXVyaV8wLjAuMV94NjQtc2V0dXAubnNpcy56aXAKdmk5Rk9vTjlLbDhha1NJSVN6TGdCb2xJU3VNSkRYMHNyMWdiK1RvZXNjL3RKaS9sdXFnTDR4K1NLMW9ydE9JQXExUjI0M3d1NkI3V3NZQnhLOCtSREE9PQo=",
-      "url": "https://github.com/Esouqu/musical-octo-potato/releases/download/v0.0.1/pummel-party-svelte-tauri_0.0.1_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0Z3UG96T3dkbzI0VWRMUGxScGZrRlZLSVlwaVEzM3RRd1VjOUgyYk96c1NhdG4yczJ2YTh5MERoSEc5Q3YyRjVwcE9FT2NDNEtTa05vaW40NHpOaE9aZVlZTHFMNkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI2MzE5NTcxCWZpbGU6cHVtbWVsLXBhcnR5LXN2ZWx0ZS10YXVyaV8wLjAuMl94NjQtc2V0dXAubnNpcy56aXAKUTB1WFdTd2xaTDMyVW5FU2Z4aGowSEI1M1FEM1BNeVZEcUM5eFpaMitMNkVYbEx2dDBlKzFkS3RZMktaVkVEMGtkQUtraEx1SnQ0NW0rczNLWGhzQ1E9PQo=",
+      "url": "https://github.com/Esouqu/musical-octo-potato/releases/download/v0.0.2/pummel-party-svelte-tauri_0.0.2_x64-setup.nsis.zip"
     }
   }
 }
