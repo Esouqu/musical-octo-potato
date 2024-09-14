@@ -1,0 +1,23 @@
+{
+  "version": "v0.0.1",
+  "notes": "Your Release Notes go here",
+  "pub_date": "2024-09-14T19:25:57Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEEzMURFQ0NDRTgwMzE3NzAKUldSd0Z3UG96T3dkbzdUZG9tNDcxWThQYWRBaXUxMzNQVGQwOHU3ZVBGSDNYcnRuM2lzN0E4QWcK",
+      "url": "https://github.com/Esouqu/musical-octo-potato/releases/download/v0.0.1/app-x86_64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEEzMURFQ0NDRTgwMzE3NzAKUldSd0Z3UG96T3dkbzdUZG9tNDcxWThQYWRBaXUxMzNQVGQwOHU3ZVBGSDNYcnRuM2lzN0E4QWcK",
+      "url": "https://github.com/Esouqu/musical-octo-potato/releases/download/v0.0.1/app-aarch64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEEzMURFQ0NDRTgwMzE3NzAKUldSd0Z3UG96T3dkbzdUZG9tNDcxWThQYWRBaXUxMzNQVGQwOHU3ZVBGSDNYcnRuM2lzN0E4QWcK",
+      "url": "https://github.com/Esouqu/musical-octo-potato/releases/download/v0.0.1/app-amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEEzMURFQ0NDRTgwMzE3NzAKUldSd0Z3UG96T3dkbzdUZG9tNDcxWThQYWRBaXUxMzNQVGQwOHU3ZVBGSDNYcnRuM2lzN0E4QWcK",
+      "url": "https://github.com/Esouqu/musical-octo-potato/releases/download/v0.0.1/app-x64-setup.nsis.zip"
+    }
+  }
+}
