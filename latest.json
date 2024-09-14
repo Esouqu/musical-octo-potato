@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0Z3UG96T3dkbzI0VWRMUGxScGZrRlZLSVlwaVEzM3RRd1VjOUgyYk96c1NhdG4yczJ2YTh5MERoSEc5Q3YyRjVwcE9FT2NDNEtTa05vaW40NHpOaE9aZVlZTHFMNkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI2MzE5NTcxCWZpbGU6cHVtbWVsLXBhcnR5LXN2ZWx0ZS10YXVyaV8wLjAuMl94NjQtc2V0dXAubnNpcy56aXAKUTB1WFdTd2xaTDMyVW5FU2Z4aGowSEI1M1FEM1BNeVZEcUM5eFpaMitMNkVYbEx2dDBlKzFkS3RZMktaVkVEMGtkQUtraEx1SnQ0NW0rczNLWGhzQ1E9PQo=",
-      "url": "https://github.com/Esouqu/musical-octo-potato/releases/download/v0.0.2/pummel-party-svelte-tauri_0.0.2_x64-setup.nsis.zip"
+      "url": "https://github.com/Esouqu/musical-octo-potato/releases/download/test2/pummel-party-svelte-tauri_0.0.2_x64-setup.nsis.zip"
     }
   }
 }
