@@ -1,11 +1,11 @@
 {
-  "version": "v0.0.47",
+  "version": "v0.0.48",
   "notes": "Update",
-  "pub_date": "2025-01-25T00:00:00Z",
+  "pub_date": "2025-01-30T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0Z3UG96T3dkb3p2OTRjcmNCc1RSVHBWdFNMa0FOQ2NOWVBpRmdNR0JNd1MwWEh6dk1JRzEvNU9zanpHV3JESmJudkUrd09GZW5tek5haFRJS2diYS9sZ2lWODBXd1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NzkwMjczCWZpbGU6dmtsaW5fMC4wLjQ3X3g2NC1zZXR1cC5uc2lzLnppcApJVXBRa1Yvd3ZGbUdmRFZHMWluSml4Uk9YSmVFd1dEWlhmSXZydHoxZnJ5RnRIZklhUVQwT2JHcGRzSzlhVGRtZWQvU3MrS0RUSmZQZFhmMUsyMmtCQT09Cg==",
-      "url": "https://github.com/Esouqu/musical-octo-potato/releases/download/v0.0.47/vklin_0.0.47_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0Z3UG96T3dkbzNzQkx6UHVUM2JIcHhobHdKSXVPZndtai9mNno2NG1tY1pMYlhRdFBhQ01CSUNRalAyUkRmVk5IRlhzVXZVeFJOVTJ0Q0hUaEZLcDduR1hOZko0aHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM4MTg0OTU0CWZpbGU6dmtsaW5fMC4wLjQ4X3g2NC1zZXR1cC5uc2lzLnppcAptVzBKN1BqQ3dLU1UyZEk3QnBqbkVSOFRpUmwyRW1FenFmd0F0T1hVRmhMb1FpVmtucitkSTU4c0djaXVBQVY1WGQ1YTVQVG1ROHlGODhjbnJxWlNBQT09Cg==",
+      "url": "https://github.com/Esouqu/musical-octo-potato/releases/download/v0.0.48/vklin_0.0.48_x64-setup.nsis.zip"
     }
   }
 }
